@@ -101,6 +101,10 @@ churners for all subplots. (i.e. as they stay longer, they pay more)
 
 ![py_tenure-vs-charge](https://github.com/user-attachments/assets/60ef7f37-229c-46a6-846c-d3691b9371c4)
 
+![tableau_Churners vs  Stayers, Mth Charge](https://github.com/user-attachments/assets/5f651231-3ef6-4344-94df-46e1aa9098f7)
+
+![tableau_Churners vs  Stayers, Total Rev](https://github.com/user-attachments/assets/e2eb4e47-b37c-446d-9794-201079553c7c)
+
 10. The majority of churners (first 2 churner bars in the revenue
 distribution) generated less than $1,000 in total revenues, while the majority of stayers
 generated up to $5,000.
